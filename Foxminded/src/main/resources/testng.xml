@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="GoogleSearchSuite">
+    <test name="FoxmindedFirefoxTest">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="ua.com.foxminded.Foxminded" />
+        </classes>
+    </test>
+    <test name="FoxmindedGoogleTest">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="ua.com.foxminded.Foxminded" />
+        </classes>
+    </test>
+</suite>
