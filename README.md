@@ -1,0 +1,2 @@
+# foxminded
+auto-tests
