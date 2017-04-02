@@ -1,2 +1,2 @@
 # foxminded
-auto-test to find Foxminded though google.com
+auto-test to find Foxminded through google.com
